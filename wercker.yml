@@ -1,9 +1,8 @@
-box: debian
+box: wercker/python
 build:
   steps:
-    - script:
-        name: install python
-        code: apt-get install python
+    - virtualenv:
+        name: setup virtual environment
     - script:
         name: get fit for free
         code: python get_fit_for_free.py
