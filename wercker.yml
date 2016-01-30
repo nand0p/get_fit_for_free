@@ -1,0 +1,6 @@
+box: debian
+build:
+  steps:
+    - script:
+        name: get fit for free
+        code: python get_fit_for_free.py
