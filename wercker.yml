@@ -1,4 +1,4 @@
-box: python/weezy
+box: python:2-slim
 build:
   steps:
     - script:
