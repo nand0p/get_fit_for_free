@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/nand0p/get_fit_for_free.svg?branch=master)](https://travis-ci.org/nand0p/get_fit_for_free)
 [![wercker status](https://app.wercker.com/status/478d54369a0cf4f4496cae912f1a0055/m "wercker status")](https://app.wercker.com/project/bykey/478d54369a0cf4f4496cae912f1a0055)
+[ ![Codeship Status for nand0p/get_fit_for_free](https://codeship.com/projects/e20754b0-a936-0133-ff37-528fa7782574/status?branch=master)](https://codeship.com/projects/130853)
 
 
 ```
