@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nand0p/get_fit_for_free.svg?branch=master)](https://travis-ci.org/nand0p/get_fit_for_free)
+
 get fit for free
 
 ```
