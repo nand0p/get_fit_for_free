@@ -1,4 +1,4 @@
-box: wercker/box-python
+box: wercker/python
 build:
   steps:
     - script:
