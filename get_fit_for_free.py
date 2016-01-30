@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import os
+import sys
 import subprocess
 
 push_ups = 10
@@ -9,7 +10,7 @@ pull_ups = 0
 day = 1
 year = 1
 
-print "get fit for free"
+print sys.argv[0]
 
 while year <= 3:
     while day <= 365:
