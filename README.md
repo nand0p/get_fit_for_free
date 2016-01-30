@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.org/nand0p/get_fit_for_free.svg?branch=master)](https://travis-ci.org/nand0p/get_fit_for_free)
 [![wercker status](https://app.wercker.com/status/478d54369a0cf4f4496cae912f1a0055/m "wercker status")](https://app.wercker.com/project/bykey/478d54369a0cf4f4496cae912f1a0055)
 
-get fit for free
-
 ```
 year 1 day 1 push_ups 10
 year 1 day 1 sit_ups 25
