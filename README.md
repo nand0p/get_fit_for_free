@@ -3,6 +3,8 @@
 [ ![Codeship Status for nand0p/get_fit_for_free](https://codeship.com/projects/e20754b0-a936-0133-ff37-528fa7782574/status?branch=master)](https://codeship.com/projects/130853)
 [![Code Climate](https://codeclimate.com/github/nand0p/get_fit_for_free/badges/gpa.svg)](https://codeclimate.com/github/nand0p/get_fit_for_free)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nand0p/get_fit_for_free/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 
 ```
