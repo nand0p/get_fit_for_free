@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/nand0p/get_fit_for_free.svg?branch=master)](https://travis-ci.org/nand0p/get_fit_for_free)
-
 get fit for free
+
+[![Build Status](https://travis-ci.org/nand0p/get_fit_for_free.svg?branch=master)](https://travis-ci.org/nand0p/get_fit_for_free)
 
 ```
 year 1 day 1 push_ups 10
