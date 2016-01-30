@@ -2,5 +2,8 @@ box: debian
 build:
   steps:
     - script:
+        name: install python
+        code: apt-get install python
+    - script:
         name: get fit for free
         code: python get_fit_for_free.py
