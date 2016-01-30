@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+import os
+import subprocess
+
 push_ups = 10
 sit_ups = 25
 pull_ups = 0
@@ -10,9 +13,14 @@ print "get fit for free"
 
 while year <= 3:
     while day <= 365:
-        print "\nyear %d day %d push_ups %d" % (year, day, push_ups)
-        print "year %d day %d sit_ups %d" % (year, day, sit_ups)
-        print "year %d day %d pull_ups %d" % (year, day, pull_ups)
+        future = subprocess.check_output("date -d +" + str(day - 1) \
+                  + "days +%Y%m%d", shell=True).strip()
+        print "\nyear %d day %d (%s) push_ups %d" \
+               % (year, day, future, push_ups)
+        print "year %d day %d (%s) sit_ups %d" \
+               % (year, day, future, sit_ups)
+        print "year %d day %d (%s) pull_ups %d" \
+               % (year, day, future, pull_ups)
         day = day + 1
         push_ups = push_ups + 1
         sit_ups = sit_ups + 2
