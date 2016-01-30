@@ -10,7 +10,7 @@ pull_ups = 0
 day = 1
 year = 1
 
-print sys.argv[0]
+print(sys.argv[0])
 
 while year <= 3:
     while day <= 365:
