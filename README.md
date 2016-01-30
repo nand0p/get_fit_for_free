@@ -4385,3 +4385,7 @@ year 3 day 365 push_ups 1104
 year 3 day 365 sit_ups 2213
 year 3 day 365 pull_ups 156
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nand0p/get_fit_for_free/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
