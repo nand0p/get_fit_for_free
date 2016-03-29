@@ -1,0 +1,8 @@
+coverage
+ddt
+mock
+pytest
+pytest-cov
+funcsigs
+requests
+unittest2

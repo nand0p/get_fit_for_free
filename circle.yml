@@ -1,0 +1,19 @@
+machine:
+  python:
+    version: 2.7.8
+
+dependencies:
+  override:
+    - pip install -U setuptools
+    - pip install -r tests/requirements.txt
+
+test:
+  override:
+    - py.test tests/test.py --cov=codecov
+    - codecov
+
+deployment:
+  suite:
+    branch: /.*/
+    commands:
+      - make testsuite
