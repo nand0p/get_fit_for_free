@@ -9,11 +9,5 @@ dependencies:
 
 test:
   override:
-    - py.test tests/test.py --cov=codecov
+    - python tests/test.py
     - codecov
-
-deployment:
-  suite:
-    branch: /.*/
-    commands:
-      - make testsuite
