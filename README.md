@@ -4,6 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/nand0p/get_fit_for_free/badges/gpa.svg)](https://codeclimate.com/github/nand0p/get_fit_for_free)
 [![codecov.io](https://codecov.io/github/nand0p/get_fit_for_free/coverage.svg?branch=master)](https://codecov.io/github/nand0p/get_fit_for_free?branch=master)
 [![Circle CI](https://circleci.com/gh/nand0p/get_fit_for_free.svg?style=svg)](https://circleci.com/gh/nand0p/get_fit_for_free)
+[![Build status](https://ci.appveyor.com/api/projects/status/2a2f2fljys1cvbo0/branch/master?svg=true)](https://ci.appveyor.com/project/nand0p/get-fit-for-free/branch/master)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nand0p/get_fit_for_free/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
